@@ -1,1 +1,1 @@
-# DVD-Rental---Database
+# DVD-Rental-Database
