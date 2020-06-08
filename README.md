@@ -14,7 +14,7 @@ Database features:
 
 * adding/ removing client's data to database
 * calculating price of movie rental depending on movie category and on-time/ delayed return
-* calculating additional change for delay 
+* calculating additional charge for delay 
 * calculating bonuses where applicable
 * showing info whenever movie is not available
 
